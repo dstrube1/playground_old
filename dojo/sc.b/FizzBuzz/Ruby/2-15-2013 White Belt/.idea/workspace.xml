@@ -144,12 +144,6 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\repo\IgnitionOne\dojo\scott.brown\FizzBuzz\Ruby\2-15-2013 White Belt\FizzBuzz" />
-      <recent name="C:\repo\IgnitionOne\dojo\scott.brown\FizzBuzz\Ruby\2-15-2013 White Belt" />
-    </key>
-  </component>
   <component name="RunManager" selected="RSpec.For numbers 1..15">
     <configuration default="false" name="For numbers 1..15 should print known values" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />

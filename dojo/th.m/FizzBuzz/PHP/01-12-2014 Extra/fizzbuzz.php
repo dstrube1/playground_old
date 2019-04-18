@@ -1,7 +1,6 @@
 <?php
 /**
 * FizzBuzz Kata
-* Thorne Melcher
 * 01/12/2014
 *
 * I haven't done this in PHP yet, so why not? And I'll have fun with tertiary

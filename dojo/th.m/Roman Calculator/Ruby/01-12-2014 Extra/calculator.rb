@@ -1,6 +1,5 @@
 =begin
 Roman Calculator Kata
-Thorne Melcher
 01/12/2014
 
 Ruby isn't one of my stronger languages, and I'm mostly doing this as practice. This isn't targeted towards any

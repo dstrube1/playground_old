@@ -1,8 +1,8 @@
 if (typeof(Namespace) == "undefined") Namespace = {};
-if (typeof(Namespace.AlexanderFisher) == "undefined") Namespace.AlexanderFisher = {};
-if (typeof(Namespace.AlexanderFisher.FizzBuzz) == "undefined") Namespace.AlexanderFisher.FizzBuzz = {};
+if (typeof(Namespace.alf) == "undefined") Namespace.alf = {};
+if (typeof(Namespace.alf.FizzBuzz) == "undefined") Namespace.alf.FizzBuzz = {};
 
-Namespace.AlexanderFisher.FizzBuzz.NumberConverter = function()
+Namespace.alf.FizzBuzz.NumberConverter = function()
 {
 	var self = this;
 
